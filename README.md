@@ -10,9 +10,11 @@ Data Engineer with a focus on AI systems — RAG pipelines, agentic workflows, a
 
 ## Tech
 
-       
-      
-   
+```
+Python  ·  LangChain  ·  LlamaIndex  ·  LangGraph  ·  ChromaDB  ·  Pinecone
+Airflow  ·  dbt  ·  Postgres  ·  MongoDB  ·  Spark
+OpenAI API  ·  HuggingFace  ·  FastAPI  ·  Node.js
+```
 
 ## Projects
 
